@@ -10,7 +10,7 @@ The first line of the input contains integers n and m. The second line contains 
 
 **Constraints**
 
-1 ≤ n ≤ 10^3 ; 1 ≤ m ≤ 10^
+1 ≤ n ≤ 10^3 ; 1 ≤ m ≤ 10^5
 
 **Output Format**
 
