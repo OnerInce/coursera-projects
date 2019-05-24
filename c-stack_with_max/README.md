@@ -6,7 +6,11 @@ Stack is an abstract data type supporting the operations Push()andPop(). It is n
 
 **Problem Description**
 
-Implement a stack supporting the operations Push(),Pop(), andMax().Input Format.The first line of the input contains the number of q queries. Each of the following q lines specifies a query of one of the following formats: push v, pop, or max.
+Implement a stack supporting the operations Push(),Pop(), andMax().
+
+**Input Format**
+
+The first line of the input contains the number of q queries. Each of the following q lines specifies a query of one of the following formats: push v, pop, or max.
 
 **Constraints**
 
