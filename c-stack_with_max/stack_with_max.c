@@ -48,7 +48,7 @@ int main(){
 	scanf("%d", &commandNumber);
 	
 	Stack* myStack = createStack(commandNumber);
-	Stack* myHelperStack = createStack(commandNumber);
+	Stack* myHelperStack = createStack(commandNumber);  // Second(helper) stack to keep track of the maximum value
 	
 	for(i = 0; i < commandNumber; i++){
 	
