@@ -18,4 +18,4 @@ The first line contains the number of nodes n. The second line contains n intege
 
 **Output Format**
 
-Output the height of the tree.
+Print the height of the tree.
