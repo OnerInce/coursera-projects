@@ -62,7 +62,7 @@ int isBalanced(char str[], BracketStack* myStack){
 
             if(str[i] == '(' || str[i] == '{' || str[i] == '['){push(myBracket, myStack);} // If it is a opening bracket push to stack
             
-			else if(str[i] == ')' || str[i] == '}' || str[i] == ']'){                      // If it is a closing bracket pop from the stack
+			else if(str[i] == ')' || str[i] == '}' || str[i] == ']'){ // If it is a closing bracket pop from the stack
 
                 if(isEmpty(myStack)){return (i + 1);}
 
