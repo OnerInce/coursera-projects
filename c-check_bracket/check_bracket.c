@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define MAX_SIZE 100000
+
 typedef struct Bracket{
 
     char bracket;
@@ -90,7 +92,7 @@ int isBalanced(char str[], BracketStack* myStack){
 
 int main()
 {
-    char inputString [100000];
+    char inputString [MAX_SIZE];
 
     scanf("%s", inputString);
 
