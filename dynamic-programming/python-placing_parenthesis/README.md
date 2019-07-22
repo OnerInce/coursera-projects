@@ -3,7 +3,9 @@
 **Problem Introduction**
 
 In this problem, goal is to add parentheses to a given arithmetic
-expression to maximize its value. max(5 - 8 + 7 × 4 - 8 + 9) =?
+expression to maximize its value. 
+
+max(5 - 8 + 7 × 4 - 8 + 9) =?
 
 **Task**
 
