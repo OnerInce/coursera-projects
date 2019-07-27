@@ -2,7 +2,7 @@
 
 For this assignment, providing data on baby names from the United States and will answer questions about this data. 
 The data files give information on the first names of people born in a particular year. Have data from 1880 through 2014 on both boys and girls names. 
-You can find all baby name data on us_babydata folder.
+You can find all baby name data on us_babynames folder.
 
 For example, below are two pictures of parts of the file "yob2014.csv", for names of babies born in 2014. 
 On the left is the top of the file which shows that Emma is the most popular name, the F is for female and the 20799 indicates the number of Emma’s born 
